@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Tasklist file for my own reference
+TASKLIST.md
+
+# Guidance from Trilogy
+REQUIREMENTS.md
+Assets/
